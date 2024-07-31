@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="420b7787-2c84-4503-9c89-497e2f50b521" name="Changes" comment="carga">
+    <list default="true" id="420b7787-2c84-4503-9c89-497e2f50b521" name="Changes" comment="carga01">
+      <change afterPath="$PROJECT_DIR$/src/Expense/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Expense/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Expense/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Expense/Expense.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Expense/Expense.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Expense/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Expense/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExpenseTrackerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExpenseTrackerApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,21 +42,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/nesto/Desktop/ND/Cursos/Henry/Java/Codigo/Finanzas&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/nesto/Desktop/ND/Cursos/Henry/Java/Codigo/Finanzas/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ExpenseTrackerApp.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/nesto/Desktop/ND/Cursos/Henry/Java/Codigo/Finanzas",
+    "onboarding.tips.debug.path": "C:/Users/nesto/Desktop/ND/Cursos/Henry/Java/Codigo/Finanzas/src/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="exceptions" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ExpenseTrackerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExpenseTrackerApp" />
+      <module name="Finanzas" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExpenseTrackerApp" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -70,7 +90,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722438467646</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="carga01">
+      <option name="closed" value="true" />
+      <created>1722440332424</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722440332424</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,7 +114,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="carga" />
-    <option name="LAST_COMMIT_MESSAGE" value="carga" />
+    <MESSAGE value="carga01" />
+    <option name="LAST_COMMIT_MESSAGE" value="carga01" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
